@@ -1,6 +1,6 @@
 Credit Card Default Prediction – IBM SPSS Modeler
 
-By: Abhay Dubey (3BCA – AI/ML), AKS University
+By: Abhay Dubey 3BCA(AI/ML), AKS University
 
 📌 Objective
 
